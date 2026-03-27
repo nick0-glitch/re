@@ -1,4 +1,4 @@
-# re
+
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
@@ -53,6 +53,8 @@
 <button onclick="mostrarMensagem()">Clique em mim</button>
 
 <script src="script.js"></script>
+</body>
+</html>
 
 </body>
 </html>
