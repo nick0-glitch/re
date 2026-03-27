@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <title>Meu Portfólio</title>
-    <link href="re/css">
+    <link rel="stylesheet" href="re/css/style.css">
 </head>
 <body>
 
