@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <title>Meu Portfólio</title>
-    <link rel="stylesheet" href="re/css">
+    <link href="re/css">
 </head>
 <body>
 
@@ -56,67 +56,4 @@
 </body>
 </html>
 
-body {
-    font-family: Arial, sans-serif;
-    margin: 0;
-    background-color: #f4f4f4;
-    color: #333;
-}
 
-
-header {
-    background-color: #333;
-    color: white;
-    padding: 20px;
-    text-align: center;
-}
-
-
-nav a {
-    color: white;
-    margin: 10px;
-    text-decoration: none;
-    font-weight: bold;
-}
-
-nav a:hover {
-    color: #00bcd4;
-}
-
-
-section {
-    background: white;
-    margin: 20px auto;
-    padding: 20px;
-    max-width: 800px;
-    border-radius: 8px;
-}
-
-
-h2 {
-    border-bottom: 2px solid #ddd;
-}
-
-
-ul {
-    padding: 0;
-}
-
-li {
-    margin: 5px 0;
-}
-
-
-button {
-    display: block;
-    margin: 20px auto;
-    padding: 10px;
-    background-color: #00bcd4;
-    color: white;
-    border: none;
-    border-radius: 5px;
-}
-
-button:hover {
-    background-color: #0097a7;
-}
